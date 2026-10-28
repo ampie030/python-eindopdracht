@@ -1,1 +1,3 @@
 # python-eindopdracht
+Sulaiman 
+Ammar
